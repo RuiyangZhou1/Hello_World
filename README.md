@@ -1,22 +1,19 @@
 # Hello_World(RuiyangZhou's file)
 ## Section of file
-- [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
+- [A.PROJECT TITLE](#Project-Title)
+- [B.DESCRIPTION](#Description)
+- [C.HOW TO RUN PROGRAM](#How-to-run-program)
+- [D.FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-#### Project Title
+### Project Title
+*Hello World, Hello Github* 
 
-*Hello World Sample* 
+### Description
+This file I use for practice and show the basic information about my project.
 
-#### Description
-
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
-
-#### How to Run Program 
-
+### How to Run Program 
 
 ```text
 Hello_World/
@@ -28,14 +25,13 @@ Hello_World/
    
 ```
 
-#### Files Used 
-
+### Files Used 
 
 - URL links to files - example here:
 [Ruiyang Zhou's files](www.linkedin.com/in/rzhou168899221)
 
 
-#### Additional Documentation
+### Additional Documentation
 
 I just want use some *italicized version right there*, maybe add some
 

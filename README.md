@@ -7,10 +7,10 @@
 - **[E.ADDITIONAL DOCUMENTATION](#additional-documentation)
 - **[F.VERSIONING](#versioning)
 
-### *Project Title
+### *Project Title*
 *Hello World, Hello Github* 
 
-### *Description
+### *Description*
 This file I use for practice and show the basic information about my project.
 
 ### How to Run Program 

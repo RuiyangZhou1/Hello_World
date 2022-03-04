@@ -1,16 +1,16 @@
 # Hello_World(RuiyangZhou's file)
-## Section of file
-- [A.PROJECT TITLE](#Project-Title)
-- [B.DESCRIPTION](#Description)
-- [C.HOW TO RUN PROGRAM](#How-to-run-program)
-- [D.FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
+## **Section of file**
+- **[A.PROJECT TITLE](#Project-Title)
+- **[B.DESCRIPTION](#Description)
+- **[C.HOW TO RUN PROGRAM](#How-to-run-program)
+- **[D.FILES USED](#files-used)
+- **[E.ADDITIONAL DOCUMENTATION](#additional-documentation)
+- **[F.VERSIONING](#versioning)
 
-### Project Title
+### *Project Title
 *Hello World, Hello Github* 
 
-### Description
+### *Description
 This file I use for practice and show the basic information about my project.
 
 ### How to Run Program 
@@ -25,9 +25,9 @@ Hello_World/
    
 ```
 
-### Files Used 
+### **Files Used**
 
-- URL links to files - example here:
+- **URL links to files - example here:
 [Ruiyang Zhou's files](www.linkedin.com/in/rzhou168899221)
 
 

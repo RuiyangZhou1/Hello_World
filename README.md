@@ -7,14 +7,14 @@
 - **[E.ADDITIONAL DOCUMENTATION](#additional-documentation)**
 - **[F.VERSIONING](#versioning)**
 
-### *Project Title*
+### I.*Project Title*
 *Hello World, Hello Github* 
 
-### *Description*
+### II.*Description*
 This file I use for practice and show the basic information about my project.
 >Enjoy!
 
-### How to Run Program 
+### III.How to Run Program 
 
 ```text
 Hello_World/
@@ -24,17 +24,17 @@ Hello_World/
     │── open file
 ```
 
-### **Files Used**
+### IV.**Files Used**
 
 - URL links to files - 
 [Ruiyang Zhou's files](https://www.linkedin.com/in/rzhou168899221/?trk=public-profile-join-page)
 
 
-### Additional Documentation
+### V.Additional Documentation
 
 >I just want use some *italicized version right there*
 
-### Versioning
+### VI.Versioning
 
 1.The first Verision of thie document
 

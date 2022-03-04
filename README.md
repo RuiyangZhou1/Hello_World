@@ -1,11 +1,11 @@
 # *Hello_World*(RuiyangZhou's file)
 ## **Section of file**
-- A.**[PROJECT TITLE](#I.Project-Title)**
-- B.**[DESCRIPTION](#II.Description)**
-- C.**[HOW TO RUN PROGRAM](#III.How-to-run-program)**
-- D.**[FILES USED](#IV.files-used)**
-- E.**[ADDITIONAL DOCUMENTATION](#V.additional-documentation)**
-- F.**[VERSIONING](#VI.versioning)**
+- **[I.PROJECT TITLE](#Project-Title)**
+- **[II.DESCRIPTION](#Description)**
+- **[III.HOW TO RUN PROGRAM](#How-to-run-program)**
+- **[IV.FILES USED](#files-used)**
+- **[V.ADDITIONAL DOCUMENTATION](#additional-documentation)**
+- **[VI.VERSIONING](#versioning)**
 
 ### I.*Project Title*
 *Hello World, Hello Github* 

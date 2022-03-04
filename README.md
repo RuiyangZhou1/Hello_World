@@ -33,8 +33,7 @@ Hello_World/
 
 ### Additional Documentation
 
-I just want use some *italicized version right there*, maybe add some
-
+I just want use some *italicized version right there*
 
 ### Versioning
 

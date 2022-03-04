@@ -1,4 +1,4 @@
-# Hello_World(RuiyangZhou's file)
+# *Hello_World*(RuiyangZhou's file)
 ## **Section of file**
 - **[A.PROJECT TITLE](#Project-Title)**
 - **[B.DESCRIPTION](#Description)**
@@ -33,7 +33,7 @@ Hello_World/
 
 ### Additional Documentation
 
-I just want use some *italicized version right there*
+>I just want use some *italicized version right there*
 
 ### Versioning
 

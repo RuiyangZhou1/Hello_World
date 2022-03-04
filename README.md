@@ -19,11 +19,9 @@ This file I use for practice and show the basic information about my project.
 ```text
 Hello_World/
 └── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
+    │── Creat the file
+    │── entry the code
+    │── open file
 ```
 
 ### **Files Used**
@@ -38,4 +36,6 @@ Hello_World/
 
 ### Versioning
 
-The first Verision of thie document
+1.The first Verision of thie document
+2.This will attcha some basic information
+3.That's all

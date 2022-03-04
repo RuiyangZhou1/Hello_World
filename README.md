@@ -28,8 +28,8 @@ Hello_World/
 
 ### **Files Used**
 
-- **URL links to files - example here:
-[Ruiyang Zhou's files](www.linkedin.com/in/rzhou168899221)
+- URL links to files - 
+[Ruiyang Zhou's files](https://www.linkedin.com/in/rzhou168899221/?trk=public-profile-join-page)
 
 
 ### Additional Documentation
